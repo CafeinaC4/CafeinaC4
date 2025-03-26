@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vitor-Cafeina</h1>
+<h1 align="center">Hi, I'm Vitor/Cafeina</h1>
 <h3 align="center">A all rounder dev from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cafeinac4&label=Profile%20views&color=800c96&style=flat" alt="cafeinac4" /> </p>
